@@ -1,0 +1,26 @@
+ol{
+    text-align: center;
+}
+
+.test{
+    margin-top: 20px;
+    background-color: gray;
+    border-radius: 20px;
+}
+
+h5{
+    margin-left: 20px; 
+    background-color: white;
+    border-radius: 20px;
+    font-size: 20px;
+
+}
+
+.img-responsive{
+    border-radius: 20px;
+    margin-bottom: 10px;
+}
+
+h4{
+    color: white;
+}
